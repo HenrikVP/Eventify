@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 "Sommerfest",
                 "20/06",
                 "Socialt arrangement",
-                "https://example.com",
+                "https://example.commm",
                 ""
         ));
 
